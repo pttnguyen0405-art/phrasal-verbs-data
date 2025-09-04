@@ -21,7 +21,7 @@
     "collocations": ["call off a meeting", "call off an event"],
     "synonyms": ["cancel"],
     "antonyms": ["continue"],
-    "image": "https://cdn2.fptshop.com.vn/unsafe/call_off_la_gi_3_ff07d88f6d.png"
+    "image": "https://cdn.langeek.co/photo/61556/original/cancel?type=jpeg"
   },
   {
     "id": 3,
@@ -33,7 +33,7 @@
     "collocations": ["carry on with", "carry on doing"],
     "synonyms": ["continue"],
     "antonyms": ["stop"],
-    "image": "https://t4.ftcdn.net/jpg/00/15/67/83/360_F_15678312_7sguoRVxDZpHiqE0mMqAg4R70pT9hB9f.jpg"
+    "image": "https://cdn.langeek.co/photo/43014/original/?type=jpeg"
   },
   {
     "id": 4,
@@ -57,7 +57,7 @@
     "collocations": ["come up with a plan"],
     "synonyms": ["devise", "propose"],
     "antonyms": ["copy"],
-    "image": "https://tienganhmoingay.com/static/Vocabulary/images/word_images/come_up_with.jpg"
+    "image": "https://cdn.langeek.co/photo/23641/original/?type=jpeg"
   },
   {
     "id": 6,
@@ -81,7 +81,7 @@
     "collocations": ["drop out of school"],
     "synonyms": ["quit"],
     "antonyms": ["enroll"],
-    "image": "https://www.careeraddict.com/uploads/article/60354/male-high-school-dropout-leaving-school.jpg"
+    "image": "https://cdn.langeek.co/photo/52193/original/?type=jpeg"
   },
   {
     "id": 8,
@@ -93,7 +93,7 @@
     "collocations": ["figure out a solution"],
     "synonyms": ["understand", "solve"],
     "antonyms": ["misunderstand"],
-    "image": "https://cdn.langeek.co/photo/23641/original/?type=jpeg"
+    "image": "https://cdn.langeek.co/photo/48105/original/?type=jpeg"
   },
   {
     "id": 9,
@@ -105,7 +105,7 @@
     "collocations": ["find out about"],
     "synonyms": ["discover"],
     "antonyms": ["conceal"],
-    "image": "https://www.creativefabrica.com/wp-content/uploads/2023/10/28/Detective-find-clue-Cartoon-retro-inves-Graphics-82693434-1-1-580x387.png"
+    "image": "https://cdn.langeek.co/photo/48105/original/?type=jpeg"
   },
   {
     "id": 10,
@@ -117,6 +117,18 @@
     "collocations": ["get along with friends"],
     "synonyms": ["cooperate"],
     "antonyms": ["argue"],
-    "image": "https://media.dolenglish.vn/PUBLIC/MEDIA/602ea433-3448-47a0-b38e-38cf54389eb8.jpg"
+    "image": "https://cdn.langeek.co/photo/23643/original/?type=jpeg"
+  },
+  {
+    "id": 11,
+    "verb": "get away",
+    "meaning_en": "to escape; to go on holiday",
+    "meaning_vi": "trốn thoát; đi nghỉ",
+    "example_en": "The thief got away from the police.",
+    "example_vi": "Tên trộm trốn thoát khỏi cảnh sát.",
+    "collocations": ["get away with", "holiday getaway"],
+    "synonyms": ["escape"],
+    "antonyms": ["get caught"],
+    "image": "https://cdn.langeek.co/photo/20684/original/run-away?type=jpeg"
   }
 ]
