@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "verb": "bring up",
+    "meaning_en": "to mention; to raise / to take care of a child until they are grown",
+    "meaning_vi": "đề cập; nuôi dưỡng",
+    "example_en": "She brought up an interesting question.",
+    "example_vi": "Cô ấy nêu ra một câu hỏi thú vị.",
+    "collocations": ["bring up a child", "bring up an issue"],
+    "synonyms": ["mention", "raise"],
+    "antonyms": ["ignore", "overlook"],
+    "image": "https://cdn.langeek.co/photo/19827/original/parental?type=jpeg"
+  },
+  {
+    "id": 2,
+    "verb": "call off",
+    "meaning_en": "to cancel",
+    "meaning_vi": "hủy bỏ",
+    "example_en": "The game was called off due to rain.",
+    "example_vi": "Trận đấu bị hủy vì mưa.",
+    "collocations": ["call off a meeting", "call off an event"],
+    "synonyms": ["cancel"],
+    "antonyms": ["continue"],
+    "image": "https://cdn2.fptshop.com.vn/unsafe/call_off_la_gi_3_ff07d88f6d.png"
+  },
+  {
+    "id": 3,
+    "verb": "carry on",
+    "meaning_en": "to continue",
+    "meaning_vi": "tiếp tục",
+    "example_en": "She carried on working despite being tired.",
+    "example_vi": "Cô ấy vẫn tiếp tục làm việc dù mệt.",
+    "collocations": ["carry on with", "carry on doing"],
+    "synonyms": ["continue"],
+    "antonyms": ["stop"],
+    "image": "https://t4.ftcdn.net/jpg/00/15/67/83/360_F_15678312_7sguoRVxDZpHiqE0mMqAg4R70pT9hB9f.jpg"
+  },
+  {
+    "id": 4,
+    "verb": "come across",
+    "meaning_en": "to meet or find by chance",
+    "meaning_vi": "tình cờ gặp",
+    "example_en": "I came across an old friend.",
+    "example_vi": "Tôi tình cờ gặp một người bạn cũ.",
+    "collocations": ["come across as", "come across something"],
+    "synonyms": ["encounter"],
+    "antonyms": ["miss"],
+    "image": "https://cdn.langeek.co/photo/46097/original/?type=jpeg"
+  },
+  {
+    "id": 5,
+    "verb": "come up with",
+    "meaning_en": "to think of or invent",
+    "meaning_vi": "nghĩ ra, đề xuất",
+    "example_en": "She came up with a great idea.",
+    "example_vi": "Cô ấy nghĩ ra một ý tưởng tuyệt vời.",
+    "collocations": ["come up with a plan"],
+    "synonyms": ["devise", "propose"],
+    "antonyms": ["copy"],
+    "image": "https://tienganhmoingay.com/static/Vocabulary/images/word_images/come_up_with.jpg"
+  },
+  {
+    "id": 6,
+    "verb": "cut down (on)",
+    "meaning_en": "to reduce",
+    "meaning_vi": "cắt giảm",
+    "example_en": "I need to cut down on sugar.",
+    "example_vi": "Tôi cần cắt giảm đường.",
+    "collocations": ["cut down on expenses"],
+    "synonyms": ["reduce"],
+    "antonyms": ["increase"],
+    "image": "https://www.shutterstock.com/image-vector/preventing-economic-recession-down-arrow-600nw-2471458167.jpg"
+  },
+  {
+    "id": 7,
+    "verb": "drop out",
+    "meaning_en": "to quit school or a program",
+    "meaning_vi": "bỏ học",
+    "example_en": "He dropped out of college.",
+    "example_vi": "Anh ấy đã bỏ học đại học.",
+    "collocations": ["drop out of school"],
+    "synonyms": ["quit"],
+    "antonyms": ["enroll"],
+    "image": "https://www.careeraddict.com/uploads/article/60354/male-high-school-dropout-leaving-school.jpg"
+  },
+  {
+    "id": 8,
+    "verb": "figure out",
+    "meaning_en": "to understand or solve",
+    "meaning_vi": "hiểu ra, tìm ra",
+    "example_en": "I can’t figure out how this works.",
+    "example_vi": "Tôi không thể hiểu cái này hoạt động thế nào.",
+    "collocations": ["figure out a solution"],
+    "synonyms": ["understand", "solve"],
+    "antonyms": ["misunderstand"],
+    "image": "https://cdn.langeek.co/photo/23641/original/?type=jpeg"
+  },
+  {
+    "id": 9,
+    "verb": "find out",
+    "meaning_en": "to discover",
+    "meaning_vi": "phát hiện, tìm ra",
+    "example_en": "She found out the truth.",
+    "example_vi": "Cô ấy phát hiện sự thật.",
+    "collocations": ["find out about"],
+    "synonyms": ["discover"],
+    "antonyms": ["conceal"],
+    "image": "https://www.creativefabrica.com/wp-content/uploads/2023/10/28/Detective-find-clue-Cartoon-retro-inves-Graphics-82693434-1-1-580x387.png"
+  },
+  {
+    "id": 10,
+    "verb": "get along (with)",
+    "meaning_en": "to have a good relationship",
+    "meaning_vi": "hòa hợp",
+    "example_en": "I get along well with my boss.",
+    "example_vi": "Tôi hòa hợp tốt với sếp.",
+    "collocations": ["get along with friends"],
+    "synonyms": ["cooperate"],
+    "antonyms": ["argue"],
+    "image": "https://media.dolenglish.vn/PUBLIC/MEDIA/602ea433-3448-47a0-b38e-38cf54389eb8.jpg"
+  }
+]
