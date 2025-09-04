@@ -119,7 +119,7 @@
     "antonyms": ["argue"],
     "image": "https://cdn.langeek.co/photo/23643/original/?type=jpeg"
   },
-  {
+    {
     "id": 11,
     "verb": "get away",
     "meaning_en": "to escape; to go on holiday",
@@ -130,65 +130,65 @@
     "synonyms": ["escape"],
     "antonyms": ["get caught"],
     "image": "https://cdn.langeek.co/photo/20684/original/run-away?type=jpeg"
-  }
+  },
   {
-  "id": 12,
-  "verb": "fall for",
-  "meaning_en": "to be deceived by; to fall in love with",
-  "meaning_vi": "bị lừa; yêu ai đó",
-  "example_en": "He fell for her the moment they met.",
-  "example_vi": "Anh ấy yêu cô ấy ngay khi họ gặp nhau.",
-  "collocations": ["fall for a trick", "fall for someone"],
-  "synonyms": ["be tricked", "be infatuated"],
-  "antonyms": ["see through", "resist"],
-  "image": "https://cdn.langeek.co/photo/40147/original/?type=jpeg"
-}
-{
-  "id": 13,
-  "verb": "fall out of",
-  "meaning_en": "to drop from inside something; to stop belonging to a habit",
-  "meaning_vi": "rơi ra khỏi; bỏ thói quen",
-  "example_en": "The keys fell out of his pocket.",
-  "example_vi": "Chìa khóa rơi ra khỏi túi anh ấy.",
-  "collocations": ["fall out of bed", "fall out of favor"],
-  "synonyms": ["drop from", "exit"],
-  "antonyms": ["stay in", "remain"],
-  "image": "https://thumbs.dreamstime.com/b/losing-money-5404374.jpg"
-}
-{
-  "id": 14,
-  "verb": "fall off",
-  "meaning_en": "to drop down from something; to decrease in amount or quality",
-  "meaning_vi": "rơi khỏi; giảm sút",
-  "example_en": "Sales fell off sharply last month.",
-  "example_vi": "Doanh số giảm mạnh trong tháng trước.",
-  "collocations": ["fall off a bike", "fall off a ladder"],
-  "synonyms": ["decline", "drop"],
-  "antonyms": ["rise", "increase"],
-  "image": "https://media.istockphoto.com/id/80489031/photo/dropped-ice-cream.jpg?s=612x612&w=0&k=20&c=1eH9pwO-mPFt-IIwpxz2zds64HJAudI_LrHenowtjFk="
-}
-{
-  "id": 15,
-  "verb": "fall over",
-  "meaning_en": "to lose balance and collapse to the ground",
-  "meaning_vi": "ngã, mất thăng bằng",
-  "example_en": "He tripped on the rock and fell over.",
-  "example_vi": "Anh ấy vấp phải hòn đá và ngã.",
-  "collocations": ["fall over backwards", "fall over something"],
-  "synonyms": ["trip", "tumble"],
-  "antonyms": ["stand firm", "stay upright"],
-  "image": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/Anh_dai_dien_9f09f80d53.jpg"
-}
-{
-  "id": 16,
-  "verb": "fall over",
-  "meaning_en": "to tip over or collapse (for objects)",
-  "meaning_vi": "đổ, nghiêng (đồ vật, cốc, cây)",
-  "example_en": "The cup fell over and spilled water everywhere.",
-  "example_vi": "Cái cốc bị đổ và nước tràn ra khắp nơi.",
-  "collocations": ["fall over a cup", "fall over a chair"],
-  "synonyms": ["tip over", "collapse"],
-  "antonyms": ["stay upright", "stand firm"],
-  "image": "https://pixabay.com/illustrations/wine-wine-glass-red-wine-619452/"
-}
+    "id": 12,
+    "verb": "fall for",
+    "meaning_en": "to be deceived by; to fall in love with",
+    "meaning_vi": "bị lừa; yêu ai đó",
+    "example_en": "He fell for her the moment they met.",
+    "example_vi": "Anh ấy yêu cô ấy ngay khi họ gặp nhau.",
+    "collocations": ["fall for a trick", "fall for someone"],
+    "synonyms": ["be tricked", "be infatuated"],
+    "antonyms": ["see through", "resist"],
+    "image": "https://cdn.langeek.co/photo/40147/original/?type=jpeg"
+  },
+  {
+    "id": 13,
+    "verb": "fall out of",
+    "meaning_en": "to drop from inside something; to stop belonging to a habit",
+    "meaning_vi": "rơi ra khỏi; bỏ thói quen",
+    "example_en": "The keys fell out of his pocket.",
+    "example_vi": "Chìa khóa rơi ra khỏi túi anh ấy.",
+    "collocations": ["fall out of bed", "fall out of favor"],
+    "synonyms": ["drop from", "exit"],
+    "antonyms": ["stay in", "remain"],
+    "image": "https://thumbs.dreamstime.com/b/losing-money-5404374.jpg"
+  },
+  {
+    "id": 14,
+    "verb": "fall off",
+    "meaning_en": "to drop down from something; to decrease in amount or quality",
+    "meaning_vi": "rơi khỏi; giảm sút",
+    "example_en": "Sales fell off sharply last month.",
+    "example_vi": "Doanh số giảm mạnh trong tháng trước.",
+    "collocations": ["fall off a bike", "fall off a ladder"],
+    "synonyms": ["decline", "drop"],
+    "antonyms": ["rise", "increase"],
+    "image": "https://media.istockphoto.com/id/80489031/photo/dropped-ice-cream.jpg?s=612x612&w=0&k=20&c=1eH9pwO-mPFt-IIwpxz2zds64HJAudI_LrHenowtjFk="
+  },
+  {
+    "id": 15,
+    "verb": "fall over",
+    "meaning_en": "to lose balance and collapse to the ground (for people)",
+    "meaning_vi": "ngã, mất thăng bằng (người)",
+    "example_en": "He tripped on the rock and fell over.",
+    "example_vi": "Anh ấy vấp phải hòn đá và ngã.",
+    "collocations": ["fall over backwards", "fall over something"],
+    "synonyms": ["trip", "tumble"],
+    "antonyms": ["stand firm", "stay upright"],
+    "image": "https://cdn2.fptshop.com.vn/unsafe/1920x0/filters:format(webp):quality(75)/Anh_dai_dien_9f09f80d53.jpg"
+  },
+  {
+    "id": 16,
+    "verb": "fall over",
+    "meaning_en": "to tip over or collapse (for objects)",
+    "meaning_vi": "đổ, nghiêng (đồ vật, cốc, cây)",
+    "example_en": "The cup fell over and spilled water everywhere.",
+    "example_vi": "Cái cốc bị đổ và nước tràn ra khắp nơi.",
+    "collocations": ["fall over a cup", "fall over a chair"],
+    "synonyms": ["tip over", "collapse"],
+    "antonyms": ["stay upright", "stand firm"],
+    "image": "https://pixabay.com/illustrations/wine-wine-glass-red-wine-619452/"
+  }
 ]
